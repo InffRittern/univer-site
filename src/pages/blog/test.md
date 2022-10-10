@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Using
 description: SOme
-publishDate: 2022-10-09T16:58:25.585Z
+publishDate: "May 22 2022"
 heroImage: https://superid.ru/public/img/utility/sluchajnoe_chislo.jpg
 ---
 S﻿Ome body once told me
